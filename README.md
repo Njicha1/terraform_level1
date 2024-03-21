@@ -3,7 +3,7 @@
 
 Terraform is an Infrastructure as Code (IaC) tool used for automating the provisioning and management of infrastructure resources. It allows you to define your infrastructure in code using a declarative language called HashiCorp Configuration Language (HCL). Here's a brief overview for beginners:
 
-#Introduction to Infrastructure as Code (IaC): Understand the concept of IaC, where infrastructure is managed using code instead of manual processes. Terraform is a popular choice for implementing IaC.
+# Introduction to Infrastructure as Code (IaC): Understand the concept of IaC, where infrastructure is managed using code instead of manual processes. Terraform is a popular choice for implementing IaC.
 
 Getting Started with Terraform: Terraform provides a simple yet powerful way to manage infrastructure. You start by installing Terraform and then defining your infrastructure configuration in a .tf file.
 
