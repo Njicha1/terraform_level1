@@ -13,15 +13,15 @@ Getting Started with Terraform: Terraform provides a simple yet powerful way to 
 
 3. Terraform Workflow: Plan, Apply, Destroy: Terraform follows a workflow consisting of three main steps: plan, apply, and destroy.
 
-Plan: Generates an execution plan showing what Terraform will do when you apply the configuration.
-Apply: Applies the changes defined in the configuration to create or update infrastructure resources.
-Destroy: Destroys the infrastructure resources defined in the configuration.
-Managing Infrastructure with Terraform: Terraform allows you to create, update, and delete infrastructure resources using simple commands like terraform init, terraform plan, terraform apply, and terraform destroy.
+- Plan: Generates an execution plan showing what Terraform will do when you apply the configuration.
+- Apply: Applies the changes defined in the configuration to create or update infrastructure resources.
+- Destroy: Destroys the infrastructure resources defined in the configuration.
+4. Managing Infrastructure with Terraform: Terraform allows you to create, update, and delete infrastructure resources using simple commands like terraform init, terraform plan, terraform apply, and terraform destroy.
 
-3. Terraform State Management: Terraform maintains a state file that keeps track of the current state of the infrastructure. It's crucial for Terraform to manage state properly, especially in collaborative environments.
+5. Terraform State Management: Terraform maintains a state file that keeps track of the current state of the infrastructure. It's crucial for Terraform to manage state properly, especially in collaborative environments.
 
-Organizing Terraform Code with Modules: Terraform modules help in organizing and reusing configuration code. They encapsulate a set of resources and can be shared across projects.
+6. Organizing Terraform Code with Modules: Terraform modules help in organizing and reusing configuration code. They encapsulate a set of resources and can be shared across projects.
 
-4 Terraform Providers and Resources: Terraform providers are responsible for managing different types of infrastructure resources. Resources are the individual components that make up your infrastructure, such as virtual machines, networks, and databases.
+7. Terraform Providers and Resources: Terraform providers are responsible for managing different types of infrastructure resources. Resources are the individual components that make up your infrastructure, such as virtual machines, networks, and databases.
 
 Best Practices for Terraform: Adopt best practices for writing Terraform code, including code organization, version control, security considerations, and testing.
